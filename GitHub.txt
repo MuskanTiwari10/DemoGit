@@ -3,3 +3,5 @@ Hello
 My project 
 This is second line in main.
 Second Branch in GitHub.
+This branch name is Branch2.
+This is second branch in file.
